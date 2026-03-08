@@ -1,0 +1,5 @@
+{
+  "name": "HR 抽籤小幫手",
+  "description": "提供 HR 進行活動抽籤的工具，支援上傳 CSV 或貼上名單，並具備動畫抽籤與紀錄功能。",
+  "requestFramePermissions": []
+}
